@@ -1,0 +1,7 @@
+contract demo {
+    
+    public function main(int x) {
+    
+        require(x == o);
+    }
+}
